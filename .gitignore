@@ -1,0 +1,8 @@
+.idea/
+.vscode/
+a.out
+a.exe
+gen.cpp
+input.*
+input*.txt
+output.*
